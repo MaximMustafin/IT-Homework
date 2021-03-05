@@ -1,0 +1,14 @@
+D:\Study\Course 2\Информатика\IT-Homework\Builder-Example\Builder-Example\bin\Debug\Builder-Example.exe.config
+D:\Study\Course 2\Информатика\IT-Homework\Builder-Example\Builder-Example\bin\Debug\Builder-Example.exe
+D:\Study\Course 2\Информатика\IT-Homework\Builder-Example\Builder-Example\bin\Debug\Builder-Example.pdb
+D:\Study\Course 2\Информатика\IT-Homework\Builder-Example\Builder-Example\obj\Debug\Builder-Example.csprojAssemblyReference.cache
+D:\Study\Course 2\Информатика\IT-Homework\Builder-Example\Builder-Example\obj\Debug\Builder-Example.csproj.CoreCompileInputs.cache
+D:\Study\Course 2\Информатика\IT-Homework\Builder-Example\Builder-Example\obj\Debug\Builder-Example.exe
+D:\Study\Course 2\Информатика\IT-Homework\Builder-Example\Builder-Example\obj\Debug\Builder-Example.pdb
+D:\Study\Course 2\IT\IT-Homework\Builder-Example\Builder-Example\bin\Debug\Builder-Example.exe.config
+D:\Study\Course 2\IT\IT-Homework\Builder-Example\Builder-Example\bin\Debug\Builder-Example.exe
+D:\Study\Course 2\IT\IT-Homework\Builder-Example\Builder-Example\bin\Debug\Builder-Example.pdb
+D:\Study\Course 2\IT\IT-Homework\Builder-Example\Builder-Example\obj\Debug\Builder-Example.csprojAssemblyReference.cache
+D:\Study\Course 2\IT\IT-Homework\Builder-Example\Builder-Example\obj\Debug\Builder-Example.csproj.CoreCompileInputs.cache
+D:\Study\Course 2\IT\IT-Homework\Builder-Example\Builder-Example\obj\Debug\Builder-Example.exe
+D:\Study\Course 2\IT\IT-Homework\Builder-Example\Builder-Example\obj\Debug\Builder-Example.pdb
