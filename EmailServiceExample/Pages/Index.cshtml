@@ -1,0 +1,21 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <form method="post">
+        <div class="input-group mb-3">
+            <input type="text" name="message" class="form-control" placeholder="Enter a message..." aria-describedby="basic-addon2">
+            <input type="text" name="emailTo" class="form-control" placeholder="Enter an email..." aria-describedby="basic-addon2">
+            <div class="input-group-append">
+                <button class="btn btn-outline-secondary" type="submit">Send</button>
+            </div>
+        </div>
+    </form>
+    <div class="alert alert-success" role="alert">
+        @Model.State
+    </div>
+</div>
