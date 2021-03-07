@@ -35,6 +35,7 @@ Results: <br/>
 6. https://metanit.com/sharp/aspnet5/2.5.php <br/>
 7. https://metanit.com/sharp/aspnet5/2.14.php <br/>
 8. https://metanit.com/sharp/aspnet5/17.1.php <br/>
+
 Задания: <br/>
 1)Выполнить все примеры &#10003; <br/>
 2)Задание по паттерну Строитель: реализовать паттерн на примере сборки системного блока &#10003; <br/>
@@ -46,9 +47,10 @@ Results: <br/>
 
 Results: <br/>
 1)Builder-Example <br/>
-2)BasicsOfAspDotNetCore - (middleware tutorials) <br/>
+2)BasicsOfAspDotNetCore - (metanit tutorials) <br/>
 3)StaticFilesReview <br/>
-4)... <br/>
+4)MiddleWarePractise <br/>
+5)... <br/>
 
 # Task 3 <br/>
 Прочитать: <br/>
