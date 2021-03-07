@@ -1,6 +1,6 @@
 # IT-Homework <br/>
 
-# Task 1 <br/>
+# Task 1 <br/> 
 Задание: необходимо просмотреть видео(список ниже) и по <br/>
 каждому уроку воспроизвести шаги которые демонстрируются на видео. <br/>
 
@@ -14,6 +14,14 @@
 
 Выложить в репозиторий проекты по видео и конспект(можно <br/>
 блокнот или ворд) и скинуть ссылку на него до 00:00 21.02.2021 <br/>
+
+Results: <br/>
+1)BookStore/WebGentle.BookStore <br/>
+2)FirstMVCCoreApp(Visual Studio) <br/>
+3)MyFirstConsoleApp(from console to web application) <br/>
+4)dotnet core mvc 3.1(dotnet CLI) <br/> 
+5).gitignore (from video) <br/>
+6)Asp.Net Core tutorial. Asp.Net Core. Asp.Net Core MVC Tutorial. ASP.NET Core MVC Tutorial for beginners.docx - конспект <br/>
 
 # Task 2 <br/>
 1) Читаем про билдер и выполняем: https://refactoring.guru/ru/design-patterns/builder <br/>
@@ -36,6 +44,12 @@
 4)Static File реализовать прсомотр каталога со статическими <br/>
 файлами, при этом изменив катало wwwroot на что-то своё <br/>
 
+Results: <br/>
+1)Builder-Example <br/>
+2)BasicsOfAspDotNetCore - (middleware tutorials) <br/>
+3)StaticFilesReview <br/>
+4)... <br/>
+
 # Task 3 <br/>
 Прочитать: <br/>
 1) https://dotnet.today/ru/aspnet5-vnext/fundamentals/dependency-injection.html <br/>
@@ -49,4 +63,11 @@
 2.2 создаем интерфейс сервиса MailService <br/>
 2.3 в Startup  подключаем этот сервис <br/>
 3)На сайте refactoring  гуру  есть паттерн синглон Singlton реализовать пример <br/>
-4*) Сервис для авторизации через  Vk или Google <br/>
+4*)Сервис для авторизации через  Vk или Google <br/>
+
+Results: <br/>
+1)Dependency Inversion Principle (Metanit) <br/>
+2)EmailServiceExample <br/>
+3)Pattern Singleton (Refactoring GURU) <br/>
+4)... <br/>
+
