@@ -1,0 +1,7 @@
+D:\Study\Course 2\IT\IT-Homework\Dependency Inversion Principle (Metanit)\Dependency Inversion Principle (Metanit)\bin\Debug\Dependency Inversion Principle (Metanit).exe.config
+D:\Study\Course 2\IT\IT-Homework\Dependency Inversion Principle (Metanit)\Dependency Inversion Principle (Metanit)\bin\Debug\Dependency Inversion Principle (Metanit).exe
+D:\Study\Course 2\IT\IT-Homework\Dependency Inversion Principle (Metanit)\Dependency Inversion Principle (Metanit)\bin\Debug\Dependency Inversion Principle (Metanit).pdb
+D:\Study\Course 2\IT\IT-Homework\Dependency Inversion Principle (Metanit)\Dependency Inversion Principle (Metanit)\obj\Debug\Dependency Inversion Principle (Metanit).csprojAssemblyReference.cache
+D:\Study\Course 2\IT\IT-Homework\Dependency Inversion Principle (Metanit)\Dependency Inversion Principle (Metanit)\obj\Debug\Dependency Inversion Principle (Metanit).csproj.CoreCompileInputs.cache
+D:\Study\Course 2\IT\IT-Homework\Dependency Inversion Principle (Metanit)\Dependency Inversion Principle (Metanit)\obj\Debug\Dependency Inversion Principle (Metanit).exe
+D:\Study\Course 2\IT\IT-Homework\Dependency Inversion Principle (Metanit)\Dependency Inversion Principle (Metanit)\obj\Debug\Dependency Inversion Principle (Metanit).pdb
