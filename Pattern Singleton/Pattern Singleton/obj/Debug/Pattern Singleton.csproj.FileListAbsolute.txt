@@ -1,0 +1,7 @@
+D:\Study\Course 2\IT\IT-Homework\Pattern Singleton\Pattern Singleton\bin\Debug\Pattern Singleton.exe.config
+D:\Study\Course 2\IT\IT-Homework\Pattern Singleton\Pattern Singleton\bin\Debug\Pattern Singleton.exe
+D:\Study\Course 2\IT\IT-Homework\Pattern Singleton\Pattern Singleton\bin\Debug\Pattern Singleton.pdb
+D:\Study\Course 2\IT\IT-Homework\Pattern Singleton\Pattern Singleton\obj\Debug\Pattern Singleton.csprojAssemblyReference.cache
+D:\Study\Course 2\IT\IT-Homework\Pattern Singleton\Pattern Singleton\obj\Debug\Pattern Singleton.csproj.CoreCompileInputs.cache
+D:\Study\Course 2\IT\IT-Homework\Pattern Singleton\Pattern Singleton\obj\Debug\Pattern Singleton.exe
+D:\Study\Course 2\IT\IT-Homework\Pattern Singleton\Pattern Singleton\obj\Debug\Pattern Singleton.pdb
