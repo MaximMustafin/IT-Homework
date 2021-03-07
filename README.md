@@ -70,4 +70,5 @@ Results: <br/>
 2)EmailServiceExample <br/>
 3)Pattern Singleton (Refactoring GURU) <br/>
 4)... <br/>
-
+	
+&#10003;
