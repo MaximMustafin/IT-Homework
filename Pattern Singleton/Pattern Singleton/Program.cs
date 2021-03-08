@@ -24,6 +24,8 @@ namespace Pattern_Singleton
                 Console.WriteLine("Singleton failed, variables contain different instances.");
             }
 
+            Singleton.someBusinessLogic();
+
             Console.ReadKey();
         }
     }
