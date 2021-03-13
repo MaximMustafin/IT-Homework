@@ -65,12 +65,13 @@ Results: <br/>
 2.2 создаем интерфейс сервиса MailService <br/>
 2.3 в Startup  подключаем этот сервис <br/>
 3)На сайте refactoring  гуру  есть паттерн синглон Singlton реализовать пример &#10003; <br/>
-4*)Сервис для авторизации через  Vk или Google &#967; <br/>
+4*)Сервис для авторизации через  Vk или Google &#10003; <br/>
 
 Results: <br/>
 1)Dependency Inversion Principle (Metanit) <br/>
 2)EmailServiceExample <br/>
 3)Pattern Singleton (Refactoring GURU) <br/>
-4)... <br/>
+4)Authorization-via-Google <br/>
+  Authorization-via-external-services <br/>
 	
 
