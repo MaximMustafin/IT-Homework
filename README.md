@@ -74,4 +74,12 @@ Results: <br/>
 4)Authorization-via-Google <br/>
   Authorization-via-external-services <br/>
 	
+# Task 4 <br/>
+1)Выполнить до 10 части включительно - https://docs.microsoft.com/ru-ru/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-3.1&tabs=visual-studio <br/>
+
+Results: <br/>
+1)MvcMovie <br/>
+
+
+	
 
