@@ -52,7 +52,7 @@ Results: <br/>
 4)MiddleWarePractise <br/>
 5)... <br/>
 
-# Task 3 <br/>
+# Task 3 &#10003; <br/>
 Прочитать: <br/>
 1) https://dotnet.today/ru/aspnet5-vnext/fundamentals/dependency-injection.html &#10003; <br/>
 2) https://docs.microsoft.com/ru-ru/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-5.0 &#10003; <br/>
@@ -73,5 +73,13 @@ Results: <br/>
 3)Pattern Singleton (Refactoring GURU) <br/>
 4)Authorization-via-Google <br/>
   Authorization-via-external-services <br/>
+	
+# Task 4 &#10003; <br/>
+1)Выполнить до 10 части включительно - https://docs.microsoft.com/ru-ru/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-3.1&tabs=visual-studio <br/>
+
+Results: <br/>
+1)MvcMovie <br/>
+
+
 	
 
