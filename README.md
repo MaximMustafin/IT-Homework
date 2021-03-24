@@ -80,6 +80,8 @@ Results: <br/>
 Results: <br/>
 1)MvcMovie <br/>
 
+https://www.researchgate.net/publication/4079947_Automated_robot_function_recovery_after_unanticipated_failure_or_environmental_change_using_a_minimum_of_hardware_trials
+
 
 	
 
