@@ -90,8 +90,9 @@ Results: <br/>
 Задания: <br/>
 1)Подключение middleware логирование входящих и выходящих запросов (MvcMovie) <br/>
 2)Логировать к базе данных <br/>
-3)Debug, info, critical  побаловаться с конфигом по документации https://docs.microsoft.com/ru-ru/aspnet/core/fundamentals/logging/loggermessage?view=aspnetcore-3.1<br/>
-4)Взять плитку https://torrentss.ru/load/films/1-1-2-0-0-6-17 <br/>
+3)Debug, info, critical  побаловаться с конфигом по документации <br/>
+https://docs.microsoft.com/ru-ru/aspnet/core/fundamentals/logging/loggermessage?view=aspnetcore-3.1 <br/>
+5)Взять плитку https://torrentss.ru/load/films/1-1-2-0-0-6-17 <br/>
 	a)фильтры: качество и год выпуска <br/>
 	б)картинку берете и помещаете в статик одну на все <br/>
 	в)добавляете необходимые поля для фильтров и карточек <br/>
