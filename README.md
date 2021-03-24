@@ -80,8 +80,22 @@ Results: <br/>
 Results: <br/>
 1)MvcMovie <br/>
 
-https://www.researchgate.net/publication/4079947_Automated_robot_function_recovery_after_unanticipated_failure_or_environmental_change_using_a_minimum_of_hardware_trials
+# Task 5 <br/>
 
+Прочитать: <br/>
+1)https://docs.microsoft.com/ru-ru/aspnet/core/fundamentals/logging/loggermessage?view=aspnetcore-3.1 <br/>
+2)https://docs.microsoft.com/ru-ru/aspnet/core/mvc/controllers/routing?view=aspnetcore-5.0 <br/>
+3)https://codewithshadman.com/repository-pattern-csharp/ <br/>
+
+Задания: <br/>
+1)Подключение middleware логирование входящих и выходящих запросов (MvcMovie) <br/>
+2)Логировать к базе данных <br/>
+3)Debug, info, critical  побаловаться с конфигом по документации https://docs.microsoft.com/ru-ru/aspnet/core/fundamentals/logging/loggermessage?view=aspnetcore-3.1<br/>
+4)Взять плитку https://torrentss.ru/load/films/1-1-2-0-0-6-17 <br/>
+	a)фильтры: качество и год выпуска <br/>
+	б)картинку берете и помещаете в статик одну на все <br/>
+	в)добавляете необходимые поля для фильтров и карточек <br/>
+	г)фильтр должен работать без кнопки поиск <br/>
 
 	
 
