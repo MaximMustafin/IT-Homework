@@ -23,6 +23,8 @@ namespace MiddleWarePractise
         public void Configure(IApplicationBuilder app)
         {
             app.UseMiddleware<AuthenticationMiddleware>();
+            app.UseMiddleware<ResponseLoggingMiddleware>();
+            app.UseMiddleware<RequestLoggingMiddleware>();
             //app.Use(async (context, next) =>
             //{
             //    int x = 0;
@@ -31,14 +33,14 @@ namespace MiddleWarePractise
             //});
             app.Map("/customError500", ap => ap.Run(async (context) =>
             {
-                int[] array = { 1, 2, 3, 4, 5 };           
-                await context.Response.WriteAsync($"{array[5]}\n");          
+                int[] array = { 1, 2, 3, 4, 5 };
+                await context.Response.WriteAsync($"{array[5]}\n");
             }));
             app.Map("/hello", ap => ap.Run(async (context) =>
             {
                 await context.Response.WriteAsync($"Welcome back!!!");
             }));
-            
+
         }
     }
 }
