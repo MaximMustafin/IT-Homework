@@ -23,7 +23,7 @@ Results: <br/>
 5).gitignore (from video) <br/>
 6)Asp.Net Core tutorial. Asp.Net Core. Asp.Net Core MVC Tutorial. ASP.NET Core MVC Tutorial for beginners.docx - конспект <br/>
 
-# Task 2 <br/>
+# Task 2 &#10003; <br/>
 1) Читаем про билдер и выполняем: https://refactoring.guru/ru/design-patterns/builder &#10003; <br/> 
 2) MiddleWare просто читаем: https://docs.microsoft.com/ru-ru/aspnet/core/fundamentals/middleware/?view=aspnetcore-3.1 &#10003; <br/>
 3) Выполняем все примеры: &#10003; <br/>
@@ -63,7 +63,7 @@ Results: <br/>
 2.1 класс сервиса реализовываем <br/>
 2.2 создаем интерфейс сервиса MailService <br/>
 2.3 в Startup  подключаем этот сервис <br/>
-3)На сайте refactoring guru есть паттерн синглон Singleton реализовать пример https://refactoring.guru/ru/design-patterns/singleton &#10003; <br/>
+3)На сайте refactoring guru есть паттерн синглон Singleton реализовать пример - https://refactoring.guru/ru/design-patterns/singleton &#10003; <br/>
 4*)Сервис для авторизации через Vk или Google &#10003; <br/>
 
 Results: <br/>
@@ -77,7 +77,7 @@ Results: <br/>
 1)Выполнить до 10 части включительно - https://docs.microsoft.com/ru-ru/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-3.1&tabs=visual-studio <br/>
 
 Results: <br/>
-1)MvcMovie <br/>
+1)MvcMovie - https://github.com/MustafinMaksim/MvcMovie <br/>
 
 # Task 5 <br/>
 
