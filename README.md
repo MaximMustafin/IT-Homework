@@ -88,7 +88,7 @@ Results: <br/>
 3)https://codewithshadman.com/repository-pattern-csharp/ <br/>
 
 Задания: <br/>
-1)Подключение middleware логирование входящих и выходящих запросов (MvcMovie) <br/>
+1)Подключение middleware логирование входящих и выходящих запросов (MvcMovie) &#10003; <br/>
 2)Логировать к базе данных <br/>
 3)Debug, info, critical  побаловаться с конфигом по документации <br/>
 https://docs.microsoft.com/ru-ru/aspnet/core/fundamentals/logging/loggermessage?view=aspnetcore-3.1 <br/>
