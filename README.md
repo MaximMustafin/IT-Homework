@@ -84,7 +84,7 @@ Results: <br/>
 Прочитать: <br/>
 1)https://docs.microsoft.com/ru-ru/aspnet/core/fundamentals/logging/loggermessage?view=aspnetcore-3.1 <br/>
 2)https://docs.microsoft.com/ru-ru/aspnet/core/mvc/controllers/routing?view=aspnetcore-5.0 <br/>
-3)https://codewithshadman.com/repository-pattern-csharp/ <br/>
+3)https://codewithshadman.com/repository-pattern-csharp/ &#10003; <br/>
 
 Задания: <br/>
 1)Подключение middleware логирование входящих и выходящих запросов (MvcMovie) &#10003; <br/>
