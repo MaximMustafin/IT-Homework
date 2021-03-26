@@ -88,7 +88,7 @@ Results: <br/>
 
 Задания: <br/>
 1)Подключение middleware логирование входящих и выходящих запросов (MvcMovie) &#10003; <br/>
-2)Логировать к базе данных <br/>
+2)Логировать к базе данных &#10003; <br/>
 3)Debug, info, critical  побаловаться с конфигом по документации <br/>
 https://docs.microsoft.com/ru-ru/aspnet/core/fundamentals/logging/loggermessage?view=aspnetcore-3.1 <br/>
 5)Взять плитку https://torrentss.ru/load/films/1-1-2-0-0-6-17 &#10003; <br/> 
