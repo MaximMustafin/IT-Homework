@@ -97,5 +97,7 @@ https://docs.microsoft.com/ru-ru/aspnet/core/fundamentals/logging/loggermessage?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;в)добавляете необходимые поля для фильтров и карточек <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;г)фильтр должен работать без кнопки поиск <br/>
 
+Results: <br/>
+1)MvcMovie - https://github.com/MustafinMaksim/MvcMovie <br/>
 	
 
