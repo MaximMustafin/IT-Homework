@@ -103,9 +103,9 @@ https://github.com/MustafinMaksim/MvcMovie/tree/20-03-2021 <br/>
 # Task 6 <br/>
 
 Прочитать: <br/>
-1)https://docs.microsoft.com/ru-ru/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures
+1)https://docs.microsoft.com/ru-ru/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures <br/>
 
 Задания: <br/>
-1)Реализовать три уровня по примеру с метанаита на своем проекте - https://metanit.com/sharp/mvc5/23.5.php
-2)Подключить Identity к проекту(просто подключить) - https://metanit.com/sharp/mvc5/23.10.php
+1)Реализовать три уровня по примеру с метанаита на своем проекте - https://metanit.com/sharp/mvc5/23.5.php <br/>
+2)Подключить Identity к проекту(просто подключить) - https://metanit.com/sharp/mvc5/23.10.php <br/>
 
