@@ -23,7 +23,7 @@ Results: <br/>
 5).gitignore (from video) <br/>
 6)Asp.Net Core tutorial. Asp.Net Core. Asp.Net Core MVC Tutorial. ASP.NET Core MVC Tutorial for beginners.docx - конспект <br/>
 
-# Task 2 <br/>
+# Task 2 &#10003; <br/>
 1) Читаем про билдер и выполняем: https://refactoring.guru/ru/design-patterns/builder &#10003; <br/> 
 2) MiddleWare просто читаем: https://docs.microsoft.com/ru-ru/aspnet/core/fundamentals/middleware/?view=aspnetcore-3.1 &#10003; <br/>
 3) Выполняем все примеры: &#10003; <br/>
@@ -39,18 +39,17 @@ Results: <br/>
 Задания: <br/>
 1)Выполнить все примеры &#10003; <br/>
 2)Задание по паттерну Строитель: реализовать паттерн на примере сборки системного блока &#10003; <br/>
-3)Задание по MiddleWare: &#967; <br/>
-3.a логирование всех видов входящих и исходящих запросов &#967; <br/>
-3.b обработка ошибок и возврат своих соообщений об ошибке &#10003; <br/>
+3)Задание по MiddleWare: &#10003; <br/>
+3.a логирование всех видов входящих и исходящих запросов <br/>
+3.b обработка ошибок и возврат своих соообщений об ошибке <br/>
 4)Static File реализовать прсомотр каталога со статическими <br/>
-файлами, при этом изменив катало wwwroot на что-то своё &#10003; <br/>
+файлами, при этом изменив каталог wwwroot на что-то своё &#10003; <br/>
 
 Results: <br/>
 1)Builder-Example <br/>
 2)BasicsOfAspDotNetCore - (metanit tutorials) <br/>
 3)StaticFilesReview <br/>
 4)MiddleWarePractise <br/>
-5)... <br/>
 
 # Task 3 &#10003; <br/>
 Прочитать: <br/>
@@ -64,8 +63,8 @@ Results: <br/>
 2.1 класс сервиса реализовываем <br/>
 2.2 создаем интерфейс сервиса MailService <br/>
 2.3 в Startup  подключаем этот сервис <br/>
-3)На сайте refactoring  гуру  есть паттерн синглон Singlton реализовать пример &#10003; <br/>
-4*)Сервис для авторизации через  Vk или Google &#10003; <br/>
+3)На сайте refactoring guru есть паттерн синглон Singleton реализовать пример - https://refactoring.guru/ru/design-patterns/singleton &#10003; <br/>
+4*)Сервис для авторизации через Vk или Google &#10003; <br/>
 
 Results: <br/>
 1)Dependency Inversion Principle (Metanit) <br/>
@@ -78,25 +77,38 @@ Results: <br/>
 1)Выполнить до 10 части включительно - https://docs.microsoft.com/ru-ru/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-3.1&tabs=visual-studio <br/>
 
 Results: <br/>
-1)MvcMovie <br/>
+1)MvcMovie - https://github.com/MustafinMaksim/MvcMovie <br/>
 
 # Task 5 <br/>
-
 Прочитать: <br/>
 1)https://docs.microsoft.com/ru-ru/aspnet/core/fundamentals/logging/loggermessage?view=aspnetcore-3.1 <br/>
 2)https://docs.microsoft.com/ru-ru/aspnet/core/mvc/controllers/routing?view=aspnetcore-5.0 <br/>
-3)https://codewithshadman.com/repository-pattern-csharp/ <br/>
+3)https://codewithshadman.com/repository-pattern-csharp/ &#10003; <br/>
 
 Задания: <br/>
 1)Подключение middleware логирование входящих и выходящих запросов (MvcMovie) &#10003; <br/>
-2)Логировать к базе данных <br/>
+2)Логировать к базе данных &#10003; <br/>
 3)Debug, info, critical  побаловаться с конфигом по документации <br/>
 https://docs.microsoft.com/ru-ru/aspnet/core/fundamentals/logging/loggermessage?view=aspnetcore-3.1 <br/>
-5)Взять плитку https://torrentss.ru/load/films/1-1-2-0-0-6-17 &#10003; <br/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a)фильтры: качество и год выпуска &#10003; <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;б)картинку берете и помещаете в статик одну на все &#10003; <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;в)добавляете необходимые поля для фильтров и карточек &#10003; <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;г)фильтр должен работать без кнопки поиск &#10003; <br/>
+4)Взять плитку https://torrentss.ru/load/films/1-1-2-0-0-6-17 &#10003; <br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a)фильтры: качество и год выпуска <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;б)картинку берете и помещаете в статик одну на все <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;в)добавляете необходимые поля для фильтров и карточек <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;г)фильтр должен работать без кнопки поиск <br/>
 
-	
+Results: <br/>
+1)MvcMovie - https://github.com/MustafinMaksim/MvcMovie <br/>
+https://github.com/MustafinMaksim/MvcMovie/tree/20-03-2021 <br/>
+
+# Task 6 <br/>
+
+Прочитать: <br/>
+1)https://docs.microsoft.com/ru-ru/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures <br/>
+
+Задания: <br/>
+1)Реализовать три уровня по примеру с метанаита на своем проекте - https://metanit.com/sharp/mvc5/23.5.php &#10003; <br/>
+2)Подключить Identity к проекту(просто подключить) - https://metanit.com/sharp/mvc5/23.10.php <br/>
+
+Results: <br/>
+1)MvcMovie - https://github.com/MustafinMaksim/MvcMovie/tree/27-03-2021 <br/>
 
