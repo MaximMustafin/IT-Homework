@@ -112,3 +112,12 @@ https://github.com/MustafinMaksim/MvcMovie/tree/20-03-2021 <br/>
 Results: <br/>
 1)MvcMovie - https://github.com/MustafinMaksim/MvcMovie/tree/27-03-2021 <br/>
 
+# Task 7 <br/>
+Задания: <br/>
+1) Установка node.js <br/>
+2) создание папки и открытие его в консоли <br/>
+3) создать проект npm init react-app my-app <br/>
+4) подключить бибилиотеку antd (npm i antd) <br/>
+5) добавить компонент таблица на главную страницу <br/>
+6) добавить форму с кнопкой при нажатии на кнопку данные с формы подставляются в таблицу <br/>
+
