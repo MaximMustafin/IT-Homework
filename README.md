@@ -121,3 +121,13 @@ Results: <br/>
 5)добавить компонент таблица на главную страницу <br/>
 6)добавить форму с кнопкой при нажатии на кнопку данные с формы подставляются в таблицу <br/>
 
+# Task 8 <br/>
+Задания:
+1)написать Rest api по учебнику,
+2) написать тесты к предыдущему сервису
+
+Источники:
+- https://docs.microsoft.com/ru-ru/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-5.0&tabs=visual-studio
+- https://medium.com/@HansikaWanniarachchi/get-started-net-core-application-unit-testing-with-xunit-and-moq-83c7ee0d15f3
+
+
