@@ -100,14 +100,14 @@ Results: <br/>
 1)MvcMovie - https://github.com/MustafinMaksim/MvcMovie <br/>
 https://github.com/MustafinMaksim/MvcMovie/tree/20-03-2021 <br/>
 
-# Task 6 <br/>
+# Task 6 &#10003; <br/>
 
 Прочитать: <br/>
 1)https://docs.microsoft.com/ru-ru/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures <br/>
 
 Задания: <br/>
 1)Реализовать три уровня по примеру с метанаита на своем проекте - https://metanit.com/sharp/mvc5/23.5.php &#10003; <br/>
-2)Подключить Identity к проекту(просто подключить) - https://metanit.com/sharp/mvc5/23.10.php <br/>
+2)Подключить Identity к проекту(просто подключить) - https://metanit.com/sharp/mvc5/23.10.php &#10003; <br/>
 
 Results: <br/>
 1)MvcMovie - https://github.com/MustafinMaksim/MvcMovie/tree/27-03-2021 <br/>
@@ -122,12 +122,12 @@ Results: <br/>
 6)добавить форму с кнопкой при нажатии на кнопку данные с формы подставляются в таблицу <br/>
 
 # Task 8 <br/>
-Задания:
-1)написать Rest api по учебнику,
-2) написать тесты к предыдущему сервису
+Задания:  <br/>
+1)написать Rest api по учебнику,  <br/>
+2) написать тесты к предыдущему сервису  <br/>
 
-Источники:
-- https://docs.microsoft.com/ru-ru/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-5.0&tabs=visual-studio
-- https://medium.com/@HansikaWanniarachchi/get-started-net-core-application-unit-testing-with-xunit-and-moq-83c7ee0d15f3
+Источники:  <br/>
+- https://docs.microsoft.com/ru-ru/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-5.0&tabs=visual-studio  <br/>
+- https://medium.com/@HansikaWanniarachchi/get-started-net-core-application-unit-testing-with-xunit-and-moq-83c7ee0d15f3  <br/>
 
 
