@@ -123,11 +123,12 @@ Results: <br/>
 
 # Task 8 <br/>
 Задания:  <br/>
-1)написать Rest api по учебнику,  <br/>
-2) написать тесты к предыдущему сервису  <br/>
+1)написать Rest api по учебнику, &#10003;  <br/>
+2)написать тесты к предыдущему сервису  <br/>
 
 Источники:  <br/>
 - https://docs.microsoft.com/ru-ru/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-5.0&tabs=visual-studio  <br/>
 - https://medium.com/@HansikaWanniarachchi/get-started-net-core-application-unit-testing-with-xunit-and-moq-83c7ee0d15f3  <br/>
 
-
+Results: <br/>
+1)BooksApi <br/>
